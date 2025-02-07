@@ -7,7 +7,7 @@ const GameScreen = () => {
   return (
     <View style={styles.container}>
       <ImageBackground 
-        source={require('../assets/background_02.jpg')} // You'll need to add your background image
+        source={require('../assets/background_02.jpg')}
         style={styles.background}
       >
         <ScrollView
@@ -19,7 +19,7 @@ const GameScreen = () => {
           scrollEventThrottle={16}
         >
           <Text style={styles.text}>Soldier Game</Text>
-          {/* Add more game content here */}
+          {}
         </ScrollView>
       </ImageBackground>
     </View>
