@@ -30,8 +30,8 @@ In remote and challenging environments where internet connectivity is limited or
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/your-project-name.git
-cd your-project-name
+git clone https://github.com/nikki-infinte/Hustlers-Innerve9-Hackathon.git
+cd Hustlers-Innerve9-Hackathon/SoldierGame
 ```
 
 ### 2. Install Dependencies
@@ -146,20 +146,8 @@ npm test
 - Clear Metro bundler cache: `npx react-native start --reset-cache`
 - Rebuild native modules: `npx react-native clean-project-auto`
 
-## Contributing
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
-## License
 
-Distributed under the [License Name] License. See `LICENSE` for more information.
 
-## Contact
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
-
-Project Link: [https://github.com/yourusername/your-project-name](https://github.com/yourusername/your-project-name)
